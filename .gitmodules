@@ -1,0 +1,3 @@
+[submodule "codekata"]
+	path = codekata
+	url = https://github.com/beppo/codekata.git
